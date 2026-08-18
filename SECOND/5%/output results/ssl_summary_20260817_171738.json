@@ -1,0 +1,8 @@
+{
+  "timestamp": "20260817_171738",
+  "weights": "pretrained/best_mstak_ssl_weights.pth",
+  "best_exam_f1": 0.6129683792632797,
+  "epochs_ran": 13,
+  "early_stopping_patience": 12,
+  "history_csv": "output results\\ssl_history_20260817_171738.csv"
+}
