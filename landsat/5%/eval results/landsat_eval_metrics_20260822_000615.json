@@ -1,0 +1,14 @@
+{
+  "timestamp": "20260822_000615",
+  "weights": "checkpoints_landsat\\best_landsat_ssl_5pct.pth",
+  "num_classes": 5,
+  "metrics": [
+    {
+      "split": "TEST",
+      "acc": 0.8038094546726863,
+      "f1": 0.31006300977694007,
+      "kappa": 0.37952518611194297,
+      "miou": 0.24700999725717304
+    }
+  ]
+}
