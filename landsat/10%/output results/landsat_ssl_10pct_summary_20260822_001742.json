@@ -1,0 +1,8 @@
+{
+  "timestamp": "20260822_001742",
+  "weights": "checkpoints_landsat\\best_landsat_ssl_10pct.pth",
+  "best_test_f1": 0.31072907350231765,
+  "epochs_ran": 9,
+  "early_stopping_patience": 8,
+  "history_csv": "output results\\landsat_ssl_10pct_history_20260822_001742.csv"
+}
